@@ -9,7 +9,7 @@ This is just a wrapper for [Phaser][1]. All credits for [Phaser's development][2
 2.6.2
 
 ## Current Wrapper version
-2.6.2-0
+2.6.2-1
 
 [1]: http://phaser.io
 [2]: https://github.com/photonstorm/phaser

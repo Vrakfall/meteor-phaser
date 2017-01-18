@@ -1,6 +1,6 @@
 {
   "name": "meteor-phaser",
-  "version": "2.6.2-0",
+  "version": "2.6.2-1",
   "description": "Wrapper around Phaser to make it usable in Meteor.",
   "main": "package.js",
   "scripts": {

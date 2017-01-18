@@ -1,6 +1,6 @@
 Package.describe( {
   name: 'vrakfall:phaser',
-  version: '2.6.2-0',
+  version: '2.6.2-1',
   summary: 'Wrapper around Phaser to make it usable in Meteor.',
   git: 'https://github.com/Vrakfall/meteor-phaser',
   documentation: 'README.md'
