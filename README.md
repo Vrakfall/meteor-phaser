@@ -5,8 +5,11 @@ Wrapper around Phaser to make it usable in Meteor. I try to keep this wrapper up
 This is just a wrapper for [Phaser][1]. All credits for [Phaser's development][2] go to the [Phaser Dev Team & Contributors][3]!
 [All Phaser's source code is available here][2].
 
-## Current version
+## Current Phaser version
 2.6.2
+
+## Current Wrapper version
+2.6.2-0
 
 [1]: http://phaser.io
 [2]: https://github.com/photonstorm/phaser
