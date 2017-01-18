@@ -1,0 +1,27 @@
+{
+  "name": "meteor-phaser",
+  "version": "2.6.2-0",
+  "description": "Wrapper around Phaser to make it usable in Meteor.",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrakfall/meteor-phaser.git"
+  },
+  "keywords": [
+    "meteor",
+    "phaser",
+    "wrapper"
+  ],
+  "author": "Jérémy \"Vrakfall\" Lecocq",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vrakfall/meteor-phaser/issues"
+  },
+  "homepage": "https://github.com/Vrakfall/meteor-phaser#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
